@@ -1,0 +1,174 @@
+@font-face {
+	font-family: 'icomoon';
+	src:url('../fonts/icomoon.eot?m63cf8');
+	src:url('../fonts/icomoon.eot?m63cf8#iefix') format('embedded-opentype'),
+		url('../fonts/icomoon.woff2?m63cf8') format('woff2'),
+		url('../fonts/icomoon.ttf?m63cf8') format('truetype'),
+		url('../fonts/icomoon.woff?m63cf8') format('woff'),
+		url('../fonts/icomoon.svg?m63cf8#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+	font-family: 'icomoon';
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Projects:before {
+	content: "\e803";
+}
+.icon-Coffee:before {
+	content: "\e804";
+}
+.icon-HappyCustomer:before {
+	content: "\e80b";
+}
+.icon-Sprints:before {
+	content: "\e81c";
+}
+.icon-AwesomeIdeas:before {
+	content: "\e822";
+}
+.icon-Address:before {
+	content: "\e800";
+}
+.icon-AdminTools:before {
+	content: "\e801";
+}
+.icon-AppDevelopment:before {
+	content: "\e802";
+}
+.icon-Contact:before {
+	content: "\e805";
+}
+.icon-Controls:before {
+	content: "\e806";
+}
+.icon-Design:before {
+	content: "\e807";
+}
+.icon-Email:before {
+	content: "\e808";
+}
+.icon-Employees:before {
+	content: "\e809";
+}
+.icon-Extras:before {
+	content: "\e80a";
+}
+.icon-Help:before {
+	content: "\e80c";
+}
+.icon-Icons:before {
+	content: "\e80d";
+}
+.icon-Insight2:before {
+	content: "\e80e";
+}
+.icon-Insights:before {
+	content: "\e80f";
+}
+.icon-InsPerfScore:before {
+	content: "\e810";
+}
+.icon-Language:before {
+	content: "\e811";
+}
+.icon-Levels:before {
+	content: "\e812";
+}
+.icon-Link2:before {
+	content: "\e813";
+}
+.icon-Link3:before {
+	content: "\e814";
+}
+.icon-Location:before {
+	content: "\e815";
+}
+.icon-Location2:before {
+	content: "\e816";
+}
+.icon-Lock:before {
+	content: "\e817";
+}
+.icon-Messages:before {
+	content: "\e818";
+}
+.icon-Misc:before {
+	content: "\e819";
+}
+.icon-OfficeHours:before {
+	content: "\e81a";
+}
+.icon-Play3:before {
+	content: "\e81b";
+}
+.icon-Prototype:before {
+	content: "\e81d";
+}
+.icon-Resources:before {
+	content: "\e81e";
+}
+.icon-ReviewData:before {
+	content: "\e81f";
+}
+.icon-Security:before {
+	content: "\e820";
+}
+.icon-Settings:before {
+	content: "\e821";
+}
+.icon-SSO:before {
+	content: "\e823";
+}
+.icon-Stale2:before {
+	content: "\e824";
+}
+.icon-System:before {
+	content: "\e825";
+}
+.icon-Technical:before {
+	content: "\e826";
+}
+.icon-Technology:before {
+	content: "\e827";
+}
+.icon-ThumbsUp:before {
+	content: "\e828";
+}
+.icon-Toolkit:before {
+	content: "\e829";
+}
+.icon-Tools:before {
+	content: "\e82a";
+}
+.icon-Trash:before {
+	content: "\e82b";
+}
+.icon-Trend:before {
+	content: "\e82c";
+}
+.icon-UI:before {
+	content: "\e82d";
+}
+.icon-UXdesign:before {
+	content: "\e82e";
+}
+.icon-WebDevelopment:before {
+	content: "\e82f";
+}
+.icon-YearsExperience:before {
+	content: "\e830";
+}
+

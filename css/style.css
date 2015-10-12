@@ -873,7 +873,7 @@ nav ul li.active > a {
   border-radius: 50%;
   width: 90px;
   height: 90px;
-  font-size: 30px;
+  font-size: 4.5rem;
 }
 
 /*Hi Icons*/
@@ -1574,6 +1574,9 @@ blockquote > p {
   width: 700px;
   display:inline-block;
 }
-
+.stats-icon {
+  color: rgba(255,255,255,0.5);
+  font-size: 8rem;
+}
 
 
