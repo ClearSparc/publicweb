@@ -3,10 +3,10 @@
 	/* ==========================  Define variables ========================== */
 
 	#Your e-mail address
-	define("__TO__", "samokhinteam@gmail.com");
+	define("__TO__", "chris@christopherdorris.net");
 
 	#Message subject
-	define("__SUBJECT__", "");
+	define("__SUBJECT__", "Contact Form Submission from ClearSparc");
 
 	#Success message
 	define('__SUCCESS_MESSAGE__', "Your message has been sent. Thank you!");
