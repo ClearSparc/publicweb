@@ -425,7 +425,7 @@ nav ul li.active > a {
   width: 52px;
   height: 52px;
   display: block;
-  color: #2381cf;
+  color: #34373e;
 }
 
 #back-to-top.show {
@@ -435,7 +435,6 @@ nav ul li.active > a {
 #back-to-top:hover {
   background-color: #2381cf;
 }
-
 #back-to-top:hover i {
   color: #fff;
 }
@@ -1549,7 +1548,11 @@ blockquote > p {
   left: 50%;
   margin-left: -26px;
 }
-
+.scroll-down:hover {
+  background-color: #2381cf;
+  border-radius: 50%;
+  box-shadow: 1px 1.732px 16px 0px rgba( 0, 0, 0, .16 ), 1px 1.732px 5px 0px rgba( 0, 0, 0, .12 );
+}
 .scroll-down a {
   line-height: 36px;
   position: relative;
@@ -1557,5 +1560,20 @@ blockquote > p {
 }
 
 .scroll-down i {
+  color: #34373e;
+}
+.scroll-down i:hover {
   color: #2381cf;
 }
+.scroll-down:hover i {
+  color: #fff;
+}
+.collaborate {
+  background: url(../upload/collaboration.png) no-repeat;
+  height: 315px;
+  width: 700px;
+  display:inline-block;
+}
+
+
+
