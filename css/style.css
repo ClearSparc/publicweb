@@ -37,11 +37,12 @@
 .left { float: left; }
 .right { float: right; }
 .bg-light { background-color: #fafafa; }
-.bg-color { background-color: #3f51b5; }
+.bg-color { background-color: #2381cf; }
+/*#2381cf*/
 
-::-moz-selection { color: #fff; background: #3f51b5; }
-::-webkit-selection { color: #fff; background: #3f51b5; }
-::selection { color: #fff; background: #3f51b5; }
+::-moz-selection { color: #fff; background: #2381cf; }
+::-webkit-selection { color: #fff; background: #2381cf; }
+::selection { color: #fff; background: #2381cf; }
 
 .transition {
   -webkit-transition: all 0.25s cubic-bezier(0.000, 0.000, 0.580, 1.000);
@@ -59,7 +60,7 @@ body, html {
 
 a {
   text-decoration: none;
-  color: #3f51b5;
+  color: #2381cf;
   outline: none;
 }
 
@@ -207,20 +208,20 @@ p {
   0%,
   80%,
   100% {
-    box-shadow: 0 2.5em 0 -1.3em #3f51b5;
+    box-shadow: 0 2.5em 0 -1.3em #2381cf;
   }
   40% {
-    box-shadow: 0 2.5em 0 0 #3f51b5;
+    box-shadow: 0 2.5em 0 0 #2381cf;
   }
 }
 @keyframes load7 {
   0%,
   80%,
   100% {
-    box-shadow: 0 2.5em 0 -1.3em #3f51b5;
+    box-shadow: 0 2.5em 0 -1.3em #2381cf;
   }
   40% {
-    box-shadow: 0 2.5em 0 0 #3f51b5;
+    box-shadow: 0 2.5em 0 0 #2381cf;
   }
 }
 
@@ -262,7 +263,8 @@ p {
   position: fixed;
   width: 100%;
   height: 70px;
-  background-color: rgba(63,81,181,1);
+  background-color: rgba(35,129,207,1);
+  /*35, 129, 207*/
 }
 
 .main-nav.sticky .logo {
@@ -423,7 +425,7 @@ nav ul li.active > a {
   width: 52px;
   height: 52px;
   display: block;
-  color: #3f51b5;
+  color: #2381cf;
 }
 
 #back-to-top.show {
@@ -431,7 +433,7 @@ nav ul li.active > a {
 }
 
 #back-to-top:hover {
-  background-color: #3f51b5;
+  background-color: #2381cf;
 }
 
 #back-to-top:hover i {
@@ -471,7 +473,7 @@ nav ul li.active > a {
   position: absolute;
   left: -40px;
   text-align: center;
-  color: #3f51b5;
+  color: #2381cf;
   font-size: 24px;
 }
 
@@ -511,7 +513,7 @@ nav ul li.active > a {
 
 .portfolio-filter a.active {
   color: #fff;
-  background-color: #3f51b5;
+  background-color: #2381cf;
 }
 
 .portfolio-filter a {
@@ -530,7 +532,7 @@ nav ul li.active > a {
 
 .portfolio-filter a:hover {
   color: #fff;
-  background-color: #3f51b5;
+  background-color: #2381cf;
 }
 
 .masonry-item {
@@ -609,7 +611,7 @@ nav ul li.active > a {
 
 .call-to-action {
   padding: 120px 0;
-  background-color: #3f51b5;
+  background-color: #2381cf;
 }
 
 .call-to-action h2 {
@@ -795,7 +797,7 @@ nav ul li.active > a {
 /*Testimonials*/
 
 .testimonials-slider {
-  background: url(../upload/testimonials_bg.jpg) no-repeat center center fixed;
+  background: url(../upload/testimonials_bg_woods.jpg) no-repeat center center fixed;
 }
 
 .testimonials-slider .item {
@@ -822,7 +824,7 @@ nav ul li.active > a {
 .testimonial-name {
   display: inline-block;
   font-size: 14px;
-  color: #3f51b5;
+  color: #2381cf;
   margin-bottom: 10px;
 }
 
@@ -844,7 +846,7 @@ nav ul li.active > a {
   background-color: #fff;
   padding: 10px;
   margin: auto 3px;
-  color: #3f51b5;
+  color: #2381cf;
 }
 
 .btn.prev i,
@@ -890,7 +892,7 @@ nav ul li.active > a {
   text-align: center;
   position: relative;
   z-index: 1;
-  color: #3f51b5;
+  color: #2381cf;
 }
 
 .hi-icon:after {
@@ -919,7 +921,7 @@ nav ul li.active > a {
   top: -7px;
   left: -7px;
   padding: 7px;
-  box-shadow: 0 0 0 2px #3f51b5;
+  box-shadow: 0 0 0 2px #2381cf;
   -webkit-transition: -webkit-transform 0.2s, opacity 0.2s;
   -webkit-transform: scale(.8);
   -moz-transition: -moz-transform 0.2s, opacity 0.2s;
@@ -974,7 +976,7 @@ nav ul li.active > a {
 }
 
 .entry-meta a:hover {
-  color: #3f51b5;
+  color: #2381cf;
 }
 
 .entry-meta li:before {
@@ -1322,7 +1324,7 @@ textarea.form-control {
 
 .owl-next:hover i,
 .owl-prev:hover i {
-  color: #3f51b5;
+  color: #2381cf;
 }
 
 blockquote {
@@ -1352,7 +1354,7 @@ blockquote > p {
 }
 
 .entry-content .entry-tags a:hover {
-  color: #3f51b5;
+  color: #2381cf;
 }
 
 .entry-content .entry-share {
@@ -1555,5 +1557,5 @@ blockquote > p {
 }
 
 .scroll-down i {
-  color: #3f51b5;
+  color: #2381cf;
 }
