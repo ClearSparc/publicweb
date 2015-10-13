@@ -379,14 +379,14 @@ nav ul li a {
 .navbar-on .bar2 { background-color: transparent; }
 
 nav ul li.active > a {
-  color: #e91e63;
+  color: #f68b3c;
 }
 
 .nav > li > a:focus,
 .nav > li > a:hover {
   text-decoration: none;
   background-color: transparent;
-  color: #e91e63;
+  color: #f9c12e;
   -moz-transition: all 0.3s ease;
   -webkit-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
@@ -1644,6 +1644,7 @@ blockquote > p {
   background: url(../upload/collaboration.png) no-repeat;
   height: 315px;
   width: 700px;
+    background-size: 700px 315px;
   display:inline-block;
 }
 .stats-icon {
@@ -1652,3 +1653,66 @@ blockquote > p {
 }
 
 
+@media screen and (max-width: 1200px) {
+    .collaborate {
+        height: 283px;
+        width: 630px;
+        background-size: 630px 283px;
+    }
+}
+@media screen and (max-width: 1100px) {
+    .collaborate {
+        height: 252px;
+        width: 560px;
+        background-size: 560px 252px;
+    }
+}
+@media screen and (max-width: 1000px) {
+    .collaborate {
+        height: 220px;
+        width: 490px;
+        background-size: 490px 220px;
+    }
+}
+@media screen and (max-width: 800px) {
+    .collaborate {
+        height: 189px;
+        width: 420px;
+        background-size: 420px 189px;
+    }
+}
+@media screen and (max-width: 767px) {
+    .collaborate {
+        height: 252px;
+        width: 560px;
+        background-size: 560px 252px;
+    }
+}
+@media screen and (max-width: 600px) {
+    .collaborate {
+        height: 220px;
+        width: 490px;
+        background-size: 490px 220px;
+    }
+}
+@media screen and (max-width: 550px) {
+    .collaborate {
+        height: 189px;
+        width: 420px;
+        background-size: 420px 189px;
+    }
+}
+@media screen and (max-width: 460px) {
+    .collaborate {
+        height: 157px;
+        width: 350px;
+        background-size: 350px 157px;
+    }
+}
+@media screen and (max-width: 460px) {
+    .collaborate {
+        height: 126px;
+        width: 280px;
+        background-size: 280px 126px;
+    }
+}
