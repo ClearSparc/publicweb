@@ -3,7 +3,7 @@
 	/* ==========================  Define variables ========================== */
 
 	#Your e-mail address
-	define("__TO__", "chris@christopherdorris.net");
+	define("__TO__", "projects@clearsparc.com");
 
 	#Message subject
 	define("__SUBJECT__", "Contact Form Submission from ClearSparc");
