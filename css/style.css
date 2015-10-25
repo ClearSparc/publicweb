@@ -451,7 +451,7 @@ nav ul li.active > a {
 /*Intro*/
 
 .intro {
-  padding: 160px 0;
+  padding: 80px 0;
 }
 
 .intro-heading {
@@ -805,6 +805,22 @@ nav ul li.active > a {
   margin-top: -30px;
 }
 
+
+/*Job Openings*/
+
+.job-openings {
+  padding: 10px 0 20px 0;
+  background-color: #4780b4;
+}
+
+.job-openings h2 {
+  font-size: 42px;
+}
+
+.job-openings-pic {
+  padding: 0;
+  background-color: #4780b4;
+}
 
 /*Testimonials*/
 
